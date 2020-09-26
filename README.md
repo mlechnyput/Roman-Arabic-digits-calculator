@@ -1,8 +1,11 @@
 # wo1 is a console calculator, it accepts line like this:
 
 7 + 8
+
 7 * 8
+
 7 - 8
+
 7 / 8
 
 or
