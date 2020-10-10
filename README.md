@@ -1,4 +1,6 @@
-# it is a console calculator, it accepts line like this:
+# Console calculator
+
+It accepts line like this:
 
 7 + 8
 
